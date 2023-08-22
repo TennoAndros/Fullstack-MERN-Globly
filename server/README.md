@@ -1,4 +1,4 @@
-# 📖 Globly API
+# 🌐 Globly API
 
 ---
 

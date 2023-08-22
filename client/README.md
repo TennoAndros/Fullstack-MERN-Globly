@@ -1,10 +1,10 @@
-# Globly
+# 🌐 Globly
 
 Welcome to Globly, a social networking application that allows users to connect with friends, share moments, and interact with posts. With a focus on user authentication and dynamic content, Globly offers various features to enhance your social experience. This is a web application which was created while continuing exploring React Redux MongodDB and MUI. There is not a lot of functionality yet as my main goal was to understand React Redux and MUI.
 
 I do not own any of the media used and they were used for the sole purpose of practicing and learning.
 
-## Table of Contents
+## 📋 Table of Contents
 
 - [Features](#features)
 - [Installation Instructions](#installation-instructions)
