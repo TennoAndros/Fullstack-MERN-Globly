@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+# Globly
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to Globly, a social networking application that allows users to connect with friends, share moments, and interact with posts. With a focus on user authentication and dynamic content, Globly offers various features to enhance your social experience. This is a web application which was created while continuing exploring React Redux MongodDB and MUI. There is not a lot of functionality yet as my main goal was to understand React Redux and MUI.
 
-## Available Scripts
+I do not own any of the media used and they were used for the sole purpose of practicing and learning.
 
-In the project directory, you can run:
+## Table of Contents
 
-### `npm start`
+- [Features](#features)
+- [Installation Instructions](#installation-instructions)
+- [Technologies Used](#technologies-used)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The Globly App includes the following features and functionality:
 
-### `npm test`
+- **User Authentication:** Sign up and log in securely to access your account and profile.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Post Images:** Share your favorite moments by posting images.
 
-### `npm run build`
+- **Like and Unlike Posts:** Interact with posts by liking or unliking them.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Follow and Unfollow Users:** Connect with friends and discover new users by following or unfollowing them.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Home Feed:** Get updates from users you follow in your home feed. Like their posts.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Advertisement:** An ad section to advertise businesses.
 
-### `npm run eject`
+- **Friend list:** A list of added friends.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Installation Instructions
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Prerequisites
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Node.js (v18.17.0 or later) must be installed on your system.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Setup
 
-## Learn More
+1. Clone the repository:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+git clone https://github.com/TennoAndros/Fullstack-MERN-Globly
+cd ./client
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+2. Install dependencies:
 
-### Code Splitting
+```bash
+npm i
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+3. Launch the application in your browser::
 
-### Analyzing the Bundle Size
+```bash
+npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Technologies Used
 
-### Making a Progressive Web App
+The client Globly app was created using the following technologies:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- [React](https://react.dev/): JavaScript library for building user interfaces.
+- [Redux](https://redux.js.org/): State management library for JavaScript apps.
+- [MUI](https://mui.com/): Open-source library for building user interfaces in React applications.
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**More functionality will be added in the future.**
