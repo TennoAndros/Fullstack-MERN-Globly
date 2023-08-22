@@ -159,9 +159,9 @@ export const posts = [
       [userIds[4], true],
     ]),
     comments: [
-      "random comment",
-      "another random comment",
-      "yet another random comment",
+      "random comment.",
+      "another random comment.",
+      "yet another random comment.",
     ],
   },
   {
@@ -181,10 +181,10 @@ export const posts = [
       [userIds[2], true],
     ]),
     comments: [
-      "one more random comment",
-      "and another random comment",
-      "no more random comments",
-      "I lied, one more random comment",
+      "one more random comment.",
+      "and another random comment.",
+      "no more random comments.",
+      "I lied, one more random comment.",
     ],
   },
   {
@@ -204,11 +204,11 @@ export const posts = [
       [userIds[5], true],
     ]),
     comments: [
-      "one more random comment",
-      "I lied, one more random comment",
-      "I lied again, one more random comment",
-      "Why am I doing this?",
-      "I'm bored",
+      "one more random comment.",
+      "I lied, one more random comment.",
+      "I lied again, one more random comment.",
+      "Why this comment?",
+      "I'm comment.",
     ],
   },
   {
@@ -227,12 +227,12 @@ export const posts = [
       [userIds[3], true],
     ]),
     comments: [
-      "I lied again, one more random comment",
-      "Why am I doing this?",
-      "I'm bored",
-      "I'm still bored",
-      "All I want to do is play video games",
-      "I'm going to play video games",
+      "I lied again, one more random comment.",
+      "Why?",
+      "Comment.",
+      "I'm still...",
+      "All I want...",
+      "I'm going...",
     ],
   },
   {
@@ -252,11 +252,11 @@ export const posts = [
       [userIds[7], true],
     ]),
     comments: [
-      "I lied again, one more random comment",
-      "Why am I doing this?",
-      "Man I'm bored",
-      "What should I do?",
-      "I'm going to play video games",
+      "I lied again, one more random comment.",
+      "Why comment?",
+      "Man I'm commenting.",
+      "What should I comment?",
+      "I'm going to comment.",
     ],
   },
   {
@@ -276,8 +276,8 @@ export const posts = [
 
     comments: [
       "Can I play video games now?",
-      "No let's actually study",
-      "Never mind, I'm going to play video games",
+      "No let's actually study.",
+      "Never mind, I'm going to play video games.",
       "Stop it.",
       "Michael, stop it.",
     ],
