@@ -17,10 +17,6 @@ const Friend = ({ friendId, name, subtitle, userPicturePath }) => {
   const primaryDark = palette.primary.dark;
   const main = palette.neutral.main;
   const medium = palette.neutral.medium;
-  console.log(
-    useSelector((state) => state.user.friends),
-    "FILOSSSSSSSSS"
-  );
 
   const isFriend = friends.find((friend) => friend._id === friendId);
 
