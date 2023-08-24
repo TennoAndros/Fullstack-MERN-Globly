@@ -9,6 +9,9 @@ The primary goal of this project is to demonstrate how to build a full-stack app
 ## Link to Deployed Version
 
 You can access the deployed version [here](https://fullstack-mern-globly.pages.dev/).
+If you want to immidiately login use:
+username anemail@something.com
+password 123456789
 
 ## Contents
 
