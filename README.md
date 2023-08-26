@@ -10,6 +10,8 @@ The primary goal of this project is to demonstrate how to build a full-stack app
 
 You can access the deployed version [here](https://fullstack-mern-globly.pages.dev/).
 
+**The server will need a minute to "wake-up".**
+
 If you want to immidiately login use:
 ```
 anemail@something.com
