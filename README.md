@@ -1,4 +1,4 @@
-# 📖 Fullstack Social Media App
+# Fullstack Social Media App
 
 This project is a full-stack social media app created for training and exploration purposes. It showcases the use of RESTful API and the MERN (MongoDB, Express, React, Node.js) stack.
 
