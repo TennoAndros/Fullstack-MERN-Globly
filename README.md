@@ -6,6 +6,20 @@ This project is a full-stack social media app created for training and explorati
 
 The primary goal of this project is to demonstrate how to build a full-stack application that combines both the front-end and back-end components. It serves as a learning resource to understand the integration of client and server technologies using RESTful principles and other technologies.
 
+## Link to Deployed Version
+
+You can access the deployed version [here](https://fullstack-mern-globly.pages.dev/).
+
+**The server will need a minute to "wake-up".**
+
+If you want to immidiately login use:
+```
+anemail@something.com
+```
+```
+123456789
+```
+
 ## Contents
 
 This repository consists of two main folders:
